@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @MuhammadAslam635 fro multan pakistan
-- 👀 I’m interested in collabrate
-- 🌱 I’m currently learning bun
-- 💞️ I’m looking to collaborate on micro-services applications
-- 📫 How to reach me +923136593635 whatsapp
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Cricket & Netflix
+### Hi, I'm Muhammad Aslam
 
-<!---
-MuhammadAslam635/MuhammadAslam635 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack engineer building **AI agents**, product backends, and business platforms.
+
+I ship end-to-end systems — from Laravel/PHP and NestJS APIs to **Go multi-agent pipelines**, WhatsApp/voice assistants, and React dashboards.
+
+#### What I work on
+- **AI agents & automation** — tool-calling workflows, WhatsApp bots, voice calling agents, LangGraph / ADK-style pipelines
+- **Product backends** — multi-tenant SaaS, CRM, e‑commerce, healthcare, logistics
+- **Modern UIs** — React, TypeScript, Livewire, design systems
+
+#### Stack
+`Go` · `TypeScript` · `Laravel/PHP` · `React` · `NestJS` · `Python` · `PostgreSQL` · `AWS`
+
+#### Looking for
+Interesting AI / product engineering work and open-source collaboration.
+
+---
+
+📌 **Pinned projects** highlight AI agents, CRM, e‑commerce, and full-stack platforms.  
+🔒 Many client builds stay private — descriptions below keep that portfolio organized.
