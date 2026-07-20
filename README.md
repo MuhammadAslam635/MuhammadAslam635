@@ -13,7 +13,7 @@ I ship end-to-end systems — from Laravel/PHP and NestJS APIs to **Go multi-age
 - **Modern UIs** — React, TypeScript, Livewire, design systems
 
 #### Stack
-`Go` · `TypeScript` · `Laravel/PHP` · `React` · `NestJS` · `Python` · `PostgreSQL` · `AWS` . `Rust` . `FastApi` . `LangChain` . `LangGraph` . `Google-Adk` .'Bun.js` . `Livewire` . `Kong\Konga` . `Docker` . `K8s` 
+`Go` · `TypeScript` · `Laravel/PHP` · `React` · `NestJS` · `Python` · `PostgreSQL` · `AWS` . `Rust` . `FastApi` . `LangChain` . `LangGraph` . `Google-Adk` . 'Bun.js` . `Livewire` . `Kong\Konga` . `Docker` . `K8s` 
 
 #### Support my work
 If my open-source work or public projects help you, you can [sponsor me on GitHub](https://github.com/sponsors/MuhammadAslam635) — thanks, it keeps the coffee (and the agents) running.
